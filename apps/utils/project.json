@@ -1,0 +1,9 @@
+{
+  "name": "utils",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/utils/src",
+  "prefix": "nx-workspace",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}

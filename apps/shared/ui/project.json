@@ -1,0 +1,9 @@
+{
+  "name": "shared-ui",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/shared/ui/src",
+  "prefix": "nx-workspace",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}

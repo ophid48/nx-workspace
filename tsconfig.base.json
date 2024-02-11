@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-workspace/shared-ui": ["apps/shared/ui/src/index.ts"],
+      "@nx-workspace/utils": ["apps/utils/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
