@@ -1,0 +1,8 @@
+{
+  "name": "chat-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/chat-e2e/src",
+  "targets": {},
+  "implicitDependencies": ["chat"]
+}
